@@ -21,3 +21,11 @@ A modern, feature-rich reimagining of the classic browser T-Rex runner. Built fr
    ```bash
    git clone [https://github.com/kiberlineroman-byte/DinoProV1.git](https://github.com/kiberlineroman-byte/DinoProV1.git)
    cd DinoProV1
+   
+2. **Install dependencies:**
+   ```bash
+   npm install
+   
+3. **Start the game:**
+   ```bash
+   npm run dev
